@@ -5,9 +5,9 @@
 ## Video Link
 
 ## Table of contents
-[Installation](#installation)
-
 [Description](#description)
+
+[Installation](#installation)
 
 [Instalation](#instalation)
 
@@ -19,7 +19,7 @@
 
 ## Description
 
-## Instalation
+## Installation
 
 ## Contributors
 
