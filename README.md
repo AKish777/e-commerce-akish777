@@ -7,8 +7,6 @@
 ## Table of contents
 [Description](#description)
 
-[Instalation](#instalation)
-
 [Contributing](#contributing)
 
 [License](#license)
@@ -17,12 +15,11 @@
 
 ## Description
 
-## Installation
-
 ## Contributors
+Alex Kichigin - [AKish777](https://github.com/AKish777)
 
 ## License
-This project is under the MIT License
+This project is under the MIT License.
 
 ## Contact
 If you have any interest in checking out any of my other applications or any of my other code feel free to check it out on my GitHub Account!
